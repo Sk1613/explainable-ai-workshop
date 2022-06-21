@@ -1,10 +1,12 @@
-# explainable-ai-workshop
+# Explainable AI Workshop
 
 This repo contains the materials used in the 2022 Tensorflow Turkiye "Model Visualization and Explainable AI" session.
 
-Its aim is to simply explain the work that can be done on model explainability and to give an idea about the applications that can be used.
+💛 Its aim is to simply explain the work that can be done on model explainability and to give an idea about the applications that can be used.
 
-pdf:
+👩‍💻 Join the workshop: https://www.youtube.com/watch?v=jAeMYiIfhAE 
+
+🚀 pdf:
 
     Explainable AI.pptx: The slide used in the presentation. Contents:
                                                   - What is explainable AI?
@@ -18,8 +20,10 @@ pdf:
                                                   - Code Lab 2: Visualize TS with Prophet
                                                   - Sources & the end of the party
                                                   
+                                                  
+                                                  
                                                
-code:
+ 🚀 code:
 
     1- AI_Explainability_Session.ipynb: 
     
@@ -37,7 +41,7 @@ code:
     
     Notebooks 3 and 4 contain What-if Tool samples. Check out for more: https://pair-code.github.io/what-if-tool/explore/
 
-data:
+ 🚀 data:
 
     1- FIFA 2018 Statistics.csv: Data used in the first notebook. 
       (Kaggle link: https://www.kaggle.com/datasets/mathan/fifa-2018-match-statistics)
